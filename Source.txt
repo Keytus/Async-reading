@@ -1,0 +1,4 @@
+https://docs.microsoft.com/ru-ru/windows/win32/api/minwinbase/ns-minwinbase-overlapped
+https://coderoad.ru/38026545/%D0%9A%D0%B0%D0%BA-%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C-%D1%84%D0%B0%D0%B9%D0%BB%D1%8B-%D0%B0%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE-%D0%B2-c
+https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-createfilea
+https://www.frolov-lib.ru/books/bsp/v26/ch5_4.htm
